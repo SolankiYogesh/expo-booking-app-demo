@@ -40,4 +40,4 @@
 * Please use Node.js version 22 or later.
 
 ## Release Build
-
+https://github.com/SolankiYogesh/expo-booking-app-demo/raw/refs/heads/main/release.apk
