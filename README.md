@@ -33,7 +33,7 @@
 * For the release build, I’m using Vercel to deploy a `db.json` server. I followed this documentation to set it up:
   [https://www.geeksforgeeks.org/json-server-setup-and-introduction/](https://www.geeksforgeeks.org/json-server-setup-and-introduction/)
 * The server is running at: [https://demo-json-liart.vercel.app](https://demo-json-liart.vercel.app)
-
+* Using google maps iframe and ```react-native-webview``` for maps rendering instead of ```react-native-maps``` (don't have api key)
 ## Notes for Reviewer
 
 * This is my first time using TanStack and Expo Router, so most of the code is based on the official docs.
